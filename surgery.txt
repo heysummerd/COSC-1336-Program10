@@ -1,0 +1,5 @@
+Thyroidectomy, 20000
+Mastectomy, 10000
+Biopsy, 2500
+Heart Bypass, 25000
+Endoscopy, 5000

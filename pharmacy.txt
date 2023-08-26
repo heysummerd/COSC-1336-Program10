@@ -1,0 +1,5 @@
+Tramadol, 100
+Levothyroxin, 60
+Liothyronine, 90
+Naltrexone, 110
+Bowel Prep, 50
